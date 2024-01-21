@@ -5,3 +5,5 @@
 ### Configuração git
 
 ### Comandos
+
+###git commit
